@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rose, an <a href="https://linkedin.com/in/rosalie-mcgee">IT Professional</a>☺</h1>
+<h1>Hello, I'm Rose McGee. 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
